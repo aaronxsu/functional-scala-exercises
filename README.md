@@ -4,7 +4,7 @@ This repository contains my (working) implementations of the programming exercis
 
 _Note_ :
 
-* Files appended by `-not-me` means that the solution was inspired by some online suggestions, which means these exercises may need later revision for me to better internalize.
+* Files appended by `-not-me` means that the solution was entirely inspired by some online suggestions. If `-partly` is appended, it means that the exercise has multiple questions, and only part(s) are done by myself. These mean the exercises may need later revision for me to better internalize
 
 * Files appended by `-has-better` means that they include a better (in terms of efficiency, stack safety, etc) solution posted online.
 

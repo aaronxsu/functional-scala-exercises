@@ -6,7 +6,7 @@ trait Monoid[A] {
 object Main {
 
   val optionMonoid[A]: Monoid[Option[A]] = new Monoid[Option[A]] {
-    def op(o1: Option[A], o2: Option[A]) = o1 orElse o2
+    def op(o1: Option[A], o2: Option[A]) = o1.orElse(o2)
     def zero: None
   }
 
